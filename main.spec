@@ -4,8 +4,8 @@
 a = Analysis(
     ['main.py'],
     pathex=[],
-    binaries=[('ffmpeg/ffmpeg.exe', 'ffmpeg'), ('ffmpeg/ffprobe.exe', 'ffmpeg')],
-    datas=[('myicon.ico', '.')],
+    binaries=[],
+    datas=[('ffmpeg/ffmpeg.exe', 'ffmpeg'), ('ffmpeg/ffprobe.exe', 'ffmpeg'), ('myicon.ico', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
