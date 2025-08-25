@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Yankr Logo" width="200"/>
+  <img src="assets/logo.jpg" alt="Yankr Logo" width="200"/>
 </p>
 
 <h1 align="center">Yankr 🎥🎶</h1>
