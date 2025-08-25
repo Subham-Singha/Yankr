@@ -1,4 +1,8 @@
-# Yankr 🎥🎶
+<p align="center">
+  <img src="assets/logo.png" alt="Yankr Logo" width="200"/>
+</p>
+
+<h1 align="center">Yankr 🎥🎶</h1>
 
 Yankr is a simple, user-friendly GUI application for downloading YouTube videos, audio (MP3), and thumbnails using the powerful `yt-dlp` backend.
 
